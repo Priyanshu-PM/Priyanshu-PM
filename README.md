@@ -3,5 +3,5 @@ I am a web developer and ML enthusiast
 
 
 <!-- Profile Views -->
-<img src="./profile-views.html">
+<img src="./Priyanshu-PM/profile-views.html">
 <!-- End Profile Views -->
