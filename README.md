@@ -12,7 +12,8 @@
 ###
 
 <p align="left"></p>
-https://github-profile-trophy.vercel.app/?username=Priyanshu-PM&theme=alduin
+<img src="https://github-profile-trophy.vercel.app/?username=Priyanshu-PM&theme=alduin" height="150" alt="stats graph"  />
+
 <p align="left"></p>
 
 ###
