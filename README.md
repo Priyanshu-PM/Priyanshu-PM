@@ -11,10 +11,10 @@
 
 ###
 
-<p align="left"></p>
-<img src="[![trophy](https://github-profile-trophy.vercel.app/?username=Priyanshu-PM)](https://github.com/Priyanshu-PM/github-profile-trophy)" height="150" alt="stats graph"  />
+<p align="center"></p>
+<img src="https://github.com/Priyanshu-PM/github-profile-trophy" height="150" alt="stats graph"  />
 
-<p align="left"></p>
+<p align="center"></p>
 
 ###
 
