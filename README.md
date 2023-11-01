@@ -9,13 +9,14 @@
   <img height="300" src="https://media0.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=ecf05e477vnw9xtsyi3dos95ugxivewuki1cqfya1bssnz8c&ep=v1_gifs_related&rid=giphy.gif&ct=g"  />
 </div>
 
+
+<h2 align="center">Full Stack Developer | UI/UX Designer | Data Structures and Algorithms</h2>
 ###
 
 <p align="center"></p>
 <img src="https://github-profile-trophy.vercel.app/?username=Priyanshu-PM&column=-1" height="150" alt="stats graph"  />
 
 <p align="center"></p>
-<h2 align="center">Full Stack Developer | UI/UX Designer | Data Structures and Algorithms</h2>
 
 ###
 
