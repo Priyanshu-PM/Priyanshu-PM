@@ -12,7 +12,7 @@
 ###
 
 <p align="left"></p>
-<img src="[![trophy](https://github-profile-trophy.vercel.app/?username=Priyanshu-PM)](https://github.com/ryo-ma/github-profile-trophy)" height="150" alt="stats graph"  />
+<img src="[![trophy](https://github-profile-trophy.vercel.app/?username=Priyanshu-PM)](https://github.com/Priyanshu-PM/github-profile-trophy)" height="150" alt="stats graph"  />
 
 <p align="left"></p>
 
