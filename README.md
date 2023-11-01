@@ -15,6 +15,7 @@
 <img src="https://github-profile-trophy.vercel.app/?username=Priyanshu-PM&column=-1" height="150" alt="stats graph"  />
 
 <p align="center"></p>
+<h2 align="center">Full Stack Developer | UI/UX Designer | Data Structures and Algorithms</h2>
 
 ###
 
