@@ -1,5 +1,5 @@
 
-<h2 align="center">Hi 👋! My name is Priyanshu and I'm a Full Stack Developer from Pune</h2>
+<h2 align="center">Hi 👋! My name is Priyanshu and I'm from Pune</h2>
 
 ###
 
