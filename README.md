@@ -23,11 +23,11 @@
 
 ###
 
-<img align="center" height="300" src="https://media2.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47mmxvjrf8yk4buapr7cddfswxnmtjo0ammlbe3td1&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+<img align="right" height="150" src="https://media2.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47mmxvjrf8yk4buapr7cddfswxnmtjo0ammlbe3td1&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
