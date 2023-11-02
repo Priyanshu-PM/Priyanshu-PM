@@ -91,7 +91,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Priyanshu-PM/Priyanshu-PM/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Priyanshu-PM/output/snake.svg" alt="Snake animation" />
 
 ###
 
