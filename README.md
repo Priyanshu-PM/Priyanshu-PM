@@ -58,6 +58,7 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/pandas-original.svg" alt="Pandas" width="40" height="40"/>
 </p>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h3 align="left">Stars</h3>
 <div align="center">
   <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Priyanshu-PM&show_icons=true&locale=en&theme=blue-green" alt="Priyanshu-PM" /></p>
@@ -72,5 +73,5 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Priyanshu-PM&theme=2077" height="180em" /> -->
 <!-- <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Priyanshu-PM&theme=2077" height="180em" /> -->
 </div>
-
+<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Priyanshu-PM&label=Profile%20views&color=0e75b6&style=flat" alt="Priyanshu-PM" /> </p>
