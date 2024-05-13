@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Mahukhaye</h1>
 <h3 align="center">Full Stack Developer | Data Structures and Algorithms | PICT '25</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Priyanshu-PM&label=Profile%20views&color=0e75b6&style=flat" alt="Priyanshu-PM" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Priyanshu-PM&theme=discord" alt="Priyanshu-PM" /></a> </p>
 
@@ -73,3 +72,5 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Priyanshu-PM&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Priyanshu-PM&theme=2077" height="180em" />
 </div>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Priyanshu-PM&label=Profile%20views&color=0e75b6&style=flat" alt="Priyanshu-PM" /> </p>
