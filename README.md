@@ -58,12 +58,12 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/pandas-original.svg" alt="Pandas" width="40" height="40"/>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <h3 align="left">Stars</h3>
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Priyanshu-PM&show_icons=true&locale=en&theme=blue-green" alt="Priyanshu-PM" /></p>
-
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshu-PM&theme=blue-green" alt="Priyanshu-PM" /></p>
-
+<div align="center">
+  <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Priyanshu-PM&show_icons=true&locale=en&theme=blue-green" alt="Priyanshu-PM" /></p>
+  <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshu-PM&theme=blue-green" alt="Priyanshu-PM" /></p>
+</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
 <a href="https://github.com/Priyanshu-PM">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Priyanshu-PM&theme=2077" height="180em" />
