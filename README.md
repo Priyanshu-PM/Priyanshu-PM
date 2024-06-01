@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Mahukhaye</h1>
 <h3 align="center">Full Stack Developer | Data Structures and Algorithms | PICT '25</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Priyanshu-PM&column=7&theme=discord&margin=10" alt="Priyanshu-PM" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Priyanshu-PM&column=7&theme=discord&margin-w=15" alt="Priyanshu-PM" /></a> </p>
 
 - 🔭 I’m currently working on **Machine Learning**
 - 👯 I’m looking to collaborate on **Full Stack Projects**
