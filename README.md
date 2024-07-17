@@ -3,14 +3,13 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Priyanshu-PM&column=7&theme=discord&margin-w=15" alt="Priyanshu-PM" /></a> </p>
 
-- 🔭 I’m currently working on **Machine Learning**
+- 🔭 I’m currently working on **Full Stack Developement**
 - 👯 I’m looking to collaborate on **Full Stack Projects**
-- 🤝 I’m looking for help with **Machine Learning**
 - 🌱 I’m currently learning **Machine Learning, Artificial Intelligence**
 - 💬 Ask me about **MERN stack, DSA**
 - 📫 How to reach me **priyanshupict@gmail.com**
 - 👨‍💻 All of my projects are available at **https://priyanshumahukhaye.netlify.app/**
-- 📄 Know about my experiences **https://drive.google.com/file/d/1nFfknWuU4YevbFprSsW8F_bKsbVMfxN0/view**
+- 📄 Know about my experiences **https://drive.google.com/file/d/1DyAevqh3BapSA8pafP7FLdA3ZUWmLxWi/view?usp=sharing**
 
 <div> <a href="https://www.linkedin.com/in/priyanshu-mahukhaye-757511211" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/Priyanshu-PM" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
