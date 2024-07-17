@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Full Stack Developement**
 - 👯 I’m looking to collaborate on **Full Stack Projects**
-- 🌱 I’m currently learning **Machine Learning, Artificial Intelligence**
+- 🌱 I’m currently learning **Data Structures and Algorithms**
 - 💬 Ask me about **MERN stack, DSA**
 - 📫 How to reach me **priyanshupict@gmail.com**
 - 👨‍💻 All of my projects are available at **https://priyanshumahukhaye.netlify.app/**
