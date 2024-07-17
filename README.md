@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **Machine Learning, Artificial Intelligence**
 - 💬 Ask me about **MERN stack, DSA**
 - 📫 How to reach me **priyanshupict@gmail.com**
-- 👨‍💻 All of my projects are available at **https://priyanshupm-sand.vercel.app/**
+- 👨‍💻 All of my projects are available at **https://priyanshumahukhaye.netlify.app/**
 - 📄 Know about my experiences **https://drive.google.com/file/d/1nFfknWuU4YevbFprSsW8F_bKsbVMfxN0/view**
 
 <div> <a href="https://www.linkedin.com/in/priyanshu-mahukhaye-757511211" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
